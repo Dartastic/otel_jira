@@ -1,0 +1,8 @@
+// Licensed under the Apache License, Version 2.0
+// Copyright 2025, Mindful Software LLC, All rights reserved.
+
+/// OpenTelemetry bridge for Atlassian Jira Cloud.
+library;
+
+export 'src/otel_jira.dart';
+export 'src/otel_jira_suppression.dart';
