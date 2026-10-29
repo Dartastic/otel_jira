@@ -2,7 +2,7 @@ name: otel_jira
 description: >-
   OpenTelemetry instrumentation for jira by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use jira.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dartastic/otel_jira
 homepage: https://dartastic.io
 
